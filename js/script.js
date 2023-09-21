@@ -2,10 +2,6 @@
 
 let numberOfFilms;
 
-function
-
-    start();
-
 const personalMovieDB = {
     count: 0,
     movies: {},
